@@ -7,7 +7,7 @@ Gem::Specification.new do |s|
   s.version = Webhookr::VERSION
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
-  s.authors = ["Gerry Power"]
+  s.authors = ["J Smith", "Gerry Power"]
   s.email = ["code@zoocasa.com"]
   s.description = "Webhookr - easily and securely add webhooks to your Rails app."
   s.summary = s.description
